@@ -1,0 +1,14 @@
+{
+  "name": "mali_kuvar",
+  "version": "1.0.0",
+  "description": "Sajt za kulinarske recepte",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
